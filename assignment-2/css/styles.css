@@ -15,7 +15,7 @@
         
         section {
             float: left;
-            /* for small devices */
+            /* for consistent margins on small devices*/
         }
         
         article {
@@ -166,9 +166,6 @@
                 width: 91.66%;
             }
             .col-md-12 {
-                width: 100%;
-            }
-            .last {
                 width: 100%;
             }
         }
