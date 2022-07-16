@@ -1,3 +1,7 @@
-nav {
+body {
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif, cursive;
+}
+
+.bg-gray {
     background-color: gray;
 }
